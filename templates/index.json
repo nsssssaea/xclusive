@@ -61,7 +61,11 @@
     "a15be9bf-f7a0-42b0-821b-ea897949fe0e": {
       "type": "section-featured-products",
       "settings": {
-        "products": [],
+        "products": [
+          "hijab-box-nude-jersey",
+          "a",
+          "lot-attache-hijab-anti-trou"
+        ],
         "layout": "slider",
         "number_of_items": 4,
         "text_alignment": "center",
