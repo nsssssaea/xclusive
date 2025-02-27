@@ -295,7 +295,7 @@
         "text_position": "align-center text-center",
         "title": "<h2>QUI SOMMES NOUS ?</h2>",
         "title_underline_style": "none",
-        "text": "<p>Highlight a new collection and share details about products related to this image</p>",
+        "text": "<p>Chez <strong>Farah MH’s</strong>, nous créons des <strong>voiles en jersey</strong> alliant <strong>élégance, confort et praticité</strong>. Nos tissus soigneusement sélectionnés offrent une tenue parfaite, infroissable et respirante, idéale pour le quotidien comme pour les occasions spéciales.</p>",
         "show_link": true,
         "link_text": "Button",
         "link_url": "",
@@ -312,10 +312,10 @@
         "text_t6EWtL": {
           "type": "text",
           "settings": {
-            "faq_question": "Collapsible row",
+            "faq_question": "Quels sont les types de voiles que vous proposez ?",
             "icon": "none",
             "header_image_width": 25,
-            "faq_answer": "<p>Row content</p>",
+            "faq_answer": "<p>Nous proposons des <strong>voiles en jersey</strong>, connus pour leur <strong>douceur, élasticité et confort</strong>. Ils sont faciles à porter, infroissables et parfaits pour un usage quotidien.</p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
@@ -326,10 +326,10 @@
         "text_fbe37z": {
           "type": "text",
           "settings": {
-            "faq_question": "Collapsible row",
+            "faq_question": "Quels sont les délais de livraison ?",
             "icon": "none",
             "header_image_width": 25,
-            "faq_answer": "<p>Row content</p>",
+            "faq_answer": "<p>Nos commandes sont expédiées sous <strong>1 à 3 jours ouvrés</strong>, avec un délai de livraison estimé entre <strong>9 et 10 jours ouvrés</strong> selon votre localisation.</p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
@@ -340,10 +340,52 @@
         "text_6FpytG": {
           "type": "text",
           "settings": {
-            "faq_question": "Collapsible row",
+            "faq_question": "Puis-je retourner un article ?",
             "icon": "none",
             "header_image_width": 25,
-            "faq_answer": "<p>Row content</p>",
+            "faq_answer": "<p>Oui ! Vous pouvez retourner un article dans un délai de <strong>30 jours</strong> après réception, à condition qu’il soit <strong>non porté et en parfait état</strong>. Les frais de retour sont à la charge du client.</p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "text_grFGry": {
+          "type": "text",
+          "settings": {
+            "faq_question": "Quels sont les moyens de paiement acceptés ?",
+            "icon": "none",
+            "header_image_width": 25,
+            "faq_answer": "<p>Nous acceptons les paiements par <strong>carte bancaire (Visa, Mastercard, American Express)</strong> et <strong>PayPal</strong>.</p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "text_gDcrU7": {
+          "type": "text",
+          "settings": {
+            "faq_question": "Comment entretenir mon voile en jersey ?",
+            "icon": "none",
+            "header_image_width": 25,
+            "faq_answer": "<p>Pour préserver la qualité de votre voile, nous recommandons un lavage à <strong>30°C en machine</strong> ou à la main, et de le laisser sécher à l’air libre. <strong>Ne pas utiliser de sèche-linge.</strong></p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "text_iecYJz": {
+          "type": "text",
+          "settings": {
+            "faq_question": "Où puis-je vous contacter en cas de question ?",
+            "icon": "none",
+            "header_image_width": 25,
+            "faq_answer": "<p>Notre équipe est disponible via <strong>e-mail</strong> ou <strong>Instagram</strong> pour répondre à toutes vos questions.</p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
@@ -355,7 +397,10 @@
       "block_order": [
         "text_t6EWtL",
         "text_fbe37z",
-        "text_6FpytG"
+        "text_6FpytG",
+        "text_grFGry",
+        "text_gDcrU7",
+        "text_iecYJz"
       ],
       "settings": {
         "alignment": "center",
