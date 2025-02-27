@@ -76,7 +76,7 @@
         "link_text": "",
         "link_url": "/",
         "button_style": "primary plain",
-        "mobile_layout": "grid",
+        "mobile_layout": "slider",
         "spacing_desktop": 70,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -88,6 +88,7 @@
         "56da2832-db6d-435e-88c6-913851e27132": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/3.png",
             "overlay_opacity": 0,
             "color_palette": "scheme-1",
             "text_position": "text-center",
