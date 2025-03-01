@@ -171,34 +171,14 @@
     "494041aa-66c0-450a-acb0-f3bc90d6b837": {
       "type": "section-collage",
       "blocks": {
-        "fd93849e-8a2d-47d7-a8b8-7dd02ccde46a": {
-          "type": "image",
-          "settings": {
-            "overlay_opacity": 10,
-            "color_palette": "scheme-2",
-            "text_position": "align-bottom text-end",
-            "title": "<h2>Image banner</h2>",
-            "title_underline_style": "none",
-            "text": "",
-            "show_link": true,
-            "link_text": "VOIR PLUS",
-            "link_url": "/",
-            "button_style": "secondary plain",
-            "show_look": false,
-            "product_list": [],
-            "look_btn_style": "buy_button plain",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
         "image_JX4R8w": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/2.png",
             "overlay_opacity": 10,
             "color_palette": "scheme-2",
             "text_position": "align-bottom text-end",
-            "title": "<h2>Image banner</h2>",
+            "title": "<h2>BOX HIJAB</h2>",
             "title_underline_style": "none",
             "text": "",
             "show_link": true,
@@ -216,31 +196,11 @@
         "image_LrVUYR": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/9a3666_2afb03239ef1428597407a483f5f6c4a_mv2.png",
             "overlay_opacity": 10,
             "color_palette": "scheme-2",
             "text_position": "align-bottom text-end",
-            "title": "<h2>Image banner</h2>",
-            "title_underline_style": "none",
-            "text": "",
-            "show_link": true,
-            "link_text": "VOIR PLUS",
-            "link_url": "/",
-            "button_style": "secondary plain",
-            "show_look": false,
-            "product_list": [],
-            "look_btn_style": "buy_button plain",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
-        "image_8tEQfC": {
-          "type": "image",
-          "settings": {
-            "overlay_opacity": 10,
-            "color_palette": "scheme-2",
-            "text_position": "align-bottom text-end",
-            "title": "<h2>Image banner</h2>",
+            "title": "<h2>ACCESOIRES</h2>",
             "title_underline_style": "none",
             "text": "",
             "show_link": true,
@@ -257,10 +217,8 @@
         }
       },
       "block_order": [
-        "fd93849e-8a2d-47d7-a8b8-7dd02ccde46a",
         "image_JX4R8w",
-        "image_LrVUYR",
-        "image_8tEQfC"
+        "image_LrVUYR"
       ],
       "settings": {
         "mirrored": true,
