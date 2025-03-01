@@ -148,7 +148,7 @@
         "enable_usp_slider_autoplay": true,
         "usp_slider_autoplay_seconds": 3,
         "logo": "shopify://shop_images/Capture_d_ecran_2025-02-25_a_20.46.41.png",
-        "logo_width": 105,
+        "logo_width": 160,
         "enable_country_selector": true,
         "enable_language_selector": true,
         "searchbar_font_size": "13px",
@@ -181,7 +181,7 @@
         "extra_image_width": 100,
         "extra_image_link": "",
         "disable_online_store": false,
-        "logo_width_mobile": 95,
+        "logo_width_mobile": 90,
         "search_compact_mobile": true,
         "menu_font_size_mobile": 15
       }
