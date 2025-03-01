@@ -341,7 +341,7 @@
         "text_iecYJz": {
           "type": "text",
           "settings": {
-            "faq_question": "Où puis-je vous contacter en cas de question ?",
+            "faq_question": "Ou puis-je vous contacter en cas de question ?",
             "icon": "none",
             "header_image_width": 25,
             "faq_answer": "<p>Notre équipe est disponible via <strong>e-mail</strong> ou <strong>Instagram</strong> pour répondre à toutes vos questions.</p>",
