@@ -11,12 +11,14 @@
   "current": {
     "width": 1600,
     "everything_rounded": true,
+    "input_border_radius": 4,
     "default_color_scheme": "scheme-89f017c8-f64a-433e-97c8-ef322efdd5ce",
     "positive_vibes": "#64cd82",
     "negative_vibes": "#e93d3d",
     "buy_button_color": "#000000",
     "buy_button_text_color": "#ffffff",
     "dynamic_buy_button_color": "#000000",
+    "active_tabs_color": "primary",
     "price_color": "#0e0e0e",
     "compare_at_price_color": "#e93d3d",
     "product_label_color": "#e5e051",
@@ -720,5 +722,11 @@
       "heading_letter_spacing": -3,
       "mobile_font_size": "18px"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "@font-face {font-family: 'DIN NEXT';src: url('https://cdn.shopify.com/s/files/1/0918/4781/9531/files/DINNextW1G-Medium.otf?v=1752402136');}",
+      "h1, .h1 {font-family: 'DIN NEXT';}"
+    ]
   }
 }
