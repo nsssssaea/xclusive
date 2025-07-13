@@ -100,14 +100,14 @@
       "settings": {
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "<h4>Le calme enfin accessible, selon eux.</h4>",
+        "title": "<h3>Le calme enfin accessible, selon eux:</h3>",
         "title_underline_style": "none",
         "show_link": true,
         "link_text": "Button",
         "link_url": "",
         "button_style": "primary plain",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
+        "spacing_desktop": 0,
+        "spacing_mobile": 20,
         "fix_zindex": 0
       }
     },
