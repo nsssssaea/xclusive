@@ -154,6 +154,88 @@
         "fix_zindex": 0
       }
     },
+    "section_video_banner_LXgUtV": {
+      "type": "section-video-banner",
+      "blocks": {
+        "title_KJ9zUh": {
+          "type": "title",
+          "settings": {
+            "title": "<h2>Video with text</h2>",
+            "title_underline_style": "none"
+          }
+        },
+        "text_tymVpB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with a video and tell your customers something about this product, collection, blogpost or a promotion.</p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "usp_gwk7cV": {
+          "type": "usp",
+          "settings": {
+            "usp": "Tell a unique detail about this video",
+            "font": "secondary",
+            "font_size": "16px"
+          }
+        },
+        "usp_fyJR9a": {
+          "type": "usp",
+          "settings": {
+            "usp": "Tell a unique detail about this video",
+            "font": "secondary",
+            "font_size": "16px"
+          }
+        },
+        "usp_ew4Fz4": {
+          "type": "usp",
+          "settings": {
+            "usp": "Tell a unique detail about this video",
+            "font": "secondary",
+            "font_size": "16px"
+          }
+        },
+        "buttons_K7gNnA": {
+          "type": "buttons",
+          "settings": {
+            "show_first_link": true,
+            "first_link_text": "Button",
+            "first_link_url": "/",
+            "first_button_style": "primary plain",
+            "show_second_link": true,
+            "second_link_text": "Button",
+            "second_link_url": "/",
+            "second_button_style": "secondary plain"
+          }
+        }
+      },
+      "block_order": [
+        "title_KJ9zUh",
+        "text_tymVpB",
+        "usp_gwk7cV",
+        "usp_fyJR9a",
+        "usp_ew4Fz4",
+        "buttons_K7gNnA"
+      ],
+      "name": "t:sections.video_with_text.presets.name",
+      "settings": {
+        "overlay_opacity": 0,
+        "color_palette": "",
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "video_alt_text": "",
+        "mobile_height": "s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "a15be9bf-f7a0-42b0-821b-ea897949fe0e": {
       "type": "section-featured-products",
       "settings": {
@@ -470,6 +552,7 @@
     "section_slideshow_aU6bGd",
     "section_logo_list_JGULRk",
     "section_slideshow_bKTBDh",
+    "section_video_banner_LXgUtV",
     "a15be9bf-f7a0-42b0-821b-ea897949fe0e",
     "376f598a-afc1-4c5b-91ea-a2b038935074",
     "8d51c58b-f2e0-48bd-b8e9-2ce44b8e8e4e",
