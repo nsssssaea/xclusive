@@ -99,8 +99,8 @@
       "name": "t:sections.logo_list.presets.name",
       "settings": {
         "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "<h2>Brand logo slider</h2>",
+        "text_alignment": "center",
+        "title": "<h4>Le calme enfin accessible, selon eux.</h4>",
         "title_underline_style": "none",
         "show_link": true,
         "link_text": "Button",
