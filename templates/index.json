@@ -82,12 +82,20 @@
             "image": "shopify://shop_images/sleep-foundation-logo-png_seeklogo-447312.png",
             "link": ""
           }
+        },
+        "logo_DCaPMh": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/psychologies-magazine-logo.jpg",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_TCMUK7",
         "logo_zfkixN",
-        "logo_YRti9m"
+        "logo_YRti9m",
+        "logo_DCaPMh"
       ],
       "name": "t:sections.logo_list.presets.name",
       "settings": {
