@@ -86,7 +86,7 @@
         "logo_DCaPMh": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/psychologies-magazine-logo.jpg",
+            "image": "shopify://shop_images/Logo_Psychologies_Magazine-removebg-preview.png",
             "link": ""
           }
         }
@@ -99,7 +99,7 @@
       ],
       "name": "t:sections.logo_list.presets.name",
       "settings": {
-        "number_of_items": 4,
+        "number_of_items": 2,
         "text_alignment": "center",
         "title": "<h3>Le calme enfin accessible, selon eux:</h3>",
         "title_underline_style": "none",
