@@ -725,8 +725,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "@font-face {font-family: 'DIN NEXT';src: url('https://cdn.shopify.com/s/files/1/0918/4781/9531/files/DINNextW1G-Medium.otf?v=1752402136');}",
-      "h1, .h1 {font-family: 'DIN NEXT';}"
+      "@font-face {font-family: \"DIN NEXT\"; src: url(\"https://cdn.shopify.com/s/files/1/0918/4781/9531/files/DINNextW1G-Medium.otf?v=1752402136\");}",
+      "h1,.h1, h2, h3, h4, p {font-family: \"DIN NEXT\";}"
     ]
   }
 }
