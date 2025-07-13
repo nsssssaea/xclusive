@@ -11,6 +11,7 @@
   "current": {
     "width": 1600,
     "everything_rounded": true,
+    "default_color_scheme": "scheme-89f017c8-f64a-433e-97c8-ef322efdd5ce",
     "positive_vibes": "#64cd82",
     "negative_vibes": "#e93d3d",
     "buy_button_color": "#000000",
@@ -160,6 +161,21 @@
           "logo_width_on_giftcard": 130,
           "giftcard_background_color": "#eb5757",
           "giftcard_text_color": "#ffffff"
+        }
+      },
+      "sticky-add-to-cart": {
+        "type": "sticky-add-to-cart",
+        "settings": {
+          "enable": false,
+          "position": "bottom",
+          "color_palette": "",
+          "button_style": "buy_button plain",
+          "show_variant_picker": true,
+          "show_unavailable_variants": true,
+          "show_tax": false,
+          "show_amount_selection": true,
+          "hide_in_theme_editor": false,
+          "show_mobile": true
         }
       }
     },
@@ -331,6 +347,27 @@
           "primary_bd": "#e5e5e5",
           "accent": "#333333",
           "accent_gradient": ""
+        }
+      },
+      "scheme-89f017c8-f64a-433e-97c8-ef322efdd5ce": {
+        "settings": {
+          "primary_bg": "#f8f9fa",
+          "primary_bg_gradient": "",
+          "secondary_bg": "#1b2a36",
+          "title_color": "#000000",
+          "title_color_gradient": "linear-gradient(90deg, rgba(127, 118, 198, 1) 10%, rgba(164, 155, 225, 1) 87%)",
+          "primary_fg": "#000000",
+          "primary_button_bg": "#333333",
+          "primary_button_fg": "#ffffff",
+          "secondary_button_bg": "#ef2d8e",
+          "secondary_button_fg": "#ffffff",
+          "tertiary_button_bg": "#e5dbed",
+          "tertiary_button_fg": "#000000",
+          "input_bg": "#ffffff",
+          "input_fg": "#000000",
+          "primary_bd": "#ececec",
+          "accent": "#333333",
+          "accent_gradient": "linear-gradient(346deg, rgba(156, 0, 98, 1) 4%, rgba(245, 0, 122, 1) 100%)"
         }
       }
     }

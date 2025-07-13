@@ -11,6 +11,7 @@
   "sections": {
     "86d43546-c3ee-4763-8d9e-efbf3b62d046": {
       "type": "section-spacer",
+      "disabled": true,
       "settings": {
         "height": -10,
         "height_mobile": -10
@@ -22,7 +23,6 @@
         "slide_a3JQjJ": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/modest_fashion_brand.png",
             "layout": "background",
             "image_width": 40,
             "overlay_opacity": 0,
@@ -54,6 +54,58 @@
         "autoplay_seconds": 3,
         "enable_controls": false,
         "height_mobile": "l",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "section_logo_list_JGULRk": {
+      "type": "section-logo-list",
+      "blocks": {
+        "logo_TCMUK7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/1200px-VOGUE_revista_-_logo_2.png",
+            "link": ""
+          }
+        },
+        "logo_zfkixN": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
+            "link": ""
+          }
+        },
+        "logo_66mKbb": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "link": ""
+          }
+        },
+        "logo_YRti9m": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_TCMUK7",
+        "logo_zfkixN",
+        "logo_66mKbb",
+        "logo_YRti9m"
+      ],
+      "name": "t:sections.logo_list.presets.name",
+      "settings": {
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "<h2>Brand logo slider</h2>",
+        "title_underline_style": "none",
+        "show_link": true,
+        "link_text": "Button",
+        "link_url": "",
+        "button_style": "primary plain",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -197,7 +249,6 @@
         "image_JX4R8w": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/9a3666_3cb1d76305d245678065870a2dba88da_mv2.png",
             "overlay_opacity": 10,
             "color_palette": "scheme-2",
             "text_position": "align-bottom text-end",
@@ -240,7 +291,6 @@
     "section_image_hotspots_JcxRz6": {
       "type": "section-image-hotspots",
       "settings": {
-        "image": "shopify://shop_images/FARAH_MHS.jpg",
         "overlay_opacity_img": 0,
         "color_palette": "scheme-1",
         "overlay_opacity": 100,
@@ -375,6 +425,7 @@
   "order": [
     "86d43546-c3ee-4763-8d9e-efbf3b62d046",
     "section_slideshow_aU6bGd",
+    "section_logo_list_JGULRk",
     "a15be9bf-f7a0-42b0-821b-ea897949fe0e",
     "376f598a-afc1-4c5b-91ea-a2b038935074",
     "8d51c58b-f2e0-48bd-b8e9-2ce44b8e8e4e",
