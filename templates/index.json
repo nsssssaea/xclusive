@@ -76,16 +76,10 @@
             "link": ""
           }
         },
-        "logo_66mKbb": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
-            "link": ""
-          }
-        },
         "logo_YRti9m": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/sleep-foundation-logo-png_seeklogo-447312.png",
             "link": ""
           }
         }
@@ -93,12 +87,11 @@
       "block_order": [
         "logo_TCMUK7",
         "logo_zfkixN",
-        "logo_66mKbb",
         "logo_YRti9m"
       ],
       "name": "t:sections.logo_list.presets.name",
       "settings": {
-        "number_of_items": 4,
+        "number_of_items": 5,
         "text_alignment": "center",
         "title": "<h3>Le calme enfin accessible, selon eux:</h3>",
         "title_underline_style": "none",
@@ -108,6 +101,48 @@
         "button_style": "primary plain",
         "spacing_desktop": 0,
         "spacing_mobile": 20,
+        "fix_zindex": 0
+      }
+    },
+    "section_slideshow_bKTBDh": {
+      "type": "section-slideshow",
+      "blocks": {
+        "slide_4W34JN": {
+          "type": "slide",
+          "settings": {
+            "layout": "background",
+            "image_width": 40,
+            "overlay_opacity": 0,
+            "color_palette": "scheme-2",
+            "text_position": "align-center text-center",
+            "title": "",
+            "title_underline_style": "none",
+            "text": "",
+            "show_first_link": true,
+            "first_link_text": "",
+            "first_link_url": "/",
+            "first_button_style": "primary plain",
+            "show_second_link": true,
+            "second_link_text": "",
+            "second_link_url": "/",
+            "second_button_style": "secondary plain"
+          }
+        }
+      },
+      "block_order": [
+        "slide_4W34JN"
+      ],
+      "settings": {
+        "width": "wide",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "enable_controls": false,
+        "height_mobile": "l",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
         "fix_zindex": 0
       }
     },
@@ -426,6 +461,7 @@
     "86d43546-c3ee-4763-8d9e-efbf3b62d046",
     "section_slideshow_aU6bGd",
     "section_logo_list_JGULRk",
+    "section_slideshow_bKTBDh",
     "a15be9bf-f7a0-42b0-821b-ea897949fe0e",
     "376f598a-afc1-4c5b-91ea-a2b038935074",
     "8d51c58b-f2e0-48bd-b8e9-2ce44b8e8e4e",
