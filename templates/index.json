@@ -99,7 +99,7 @@
       ],
       "name": "t:sections.logo_list.presets.name",
       "settings": {
-        "number_of_items": 5,
+        "number_of_items": 4,
         "text_alignment": "center",
         "title": "<h3>Le calme enfin accessible, selon eux:</h3>",
         "title_underline_style": "none",
