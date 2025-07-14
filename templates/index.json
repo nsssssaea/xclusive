@@ -157,76 +157,13 @@
     },
     "section_video_banner_LXgUtV": {
       "type": "section-video-banner",
-      "blocks": {
-        "title_KJ9zUh": {
-          "type": "title",
-          "settings": {
-            "title": "<h2>Video with text</h2>",
-            "title_underline_style": "none"
-          }
-        },
-        "text_tymVpB": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with a video and tell your customers something about this product, collection, blogpost or a promotion.</p>",
-            "font": "secondary",
-            "font_weight": "400",
-            "font_size": "16px"
-          }
-        },
-        "usp_gwk7cV": {
-          "type": "usp",
-          "settings": {
-            "usp": "Tell a unique detail about this video",
-            "font": "secondary",
-            "font_size": "16px"
-          }
-        },
-        "usp_fyJR9a": {
-          "type": "usp",
-          "settings": {
-            "usp": "Tell a unique detail about this video",
-            "font": "secondary",
-            "font_size": "16px"
-          }
-        },
-        "usp_ew4Fz4": {
-          "type": "usp",
-          "settings": {
-            "usp": "Tell a unique detail about this video",
-            "font": "secondary",
-            "font_size": "16px"
-          }
-        },
-        "buttons_K7gNnA": {
-          "type": "buttons",
-          "settings": {
-            "show_first_link": true,
-            "first_link_text": "Button",
-            "first_link_url": "/",
-            "first_button_style": "primary plain",
-            "show_second_link": true,
-            "second_link_text": "Button",
-            "second_link_url": "/",
-            "second_button_style": "secondary plain"
-          }
-        }
-      },
-      "block_order": [
-        "title_KJ9zUh",
-        "text_tymVpB",
-        "usp_gwk7cV",
-        "usp_fyJR9a",
-        "usp_ew4Fz4",
-        "buttons_K7gNnA"
-      ],
       "name": "t:sections.video_with_text.presets.name",
       "settings": {
         "overlay_opacity": 0,
         "color_palette": "",
         "layout": "image-left",
-        "width": "boxed",
-        "height": "l",
+        "width": "wide",
+        "height": "s",
         "enable_custom_height": false,
         "custom_height": 300,
         "text_position": "text-start",
@@ -237,93 +174,153 @@
         "fix_zindex": 0
       }
     },
-    "a15be9bf-f7a0-42b0-821b-ea897949fe0e": {
-      "type": "section-featured-products",
-      "settings": {
-        "products": [
-          "hijab-box-nude-jersey",
-          "a",
-          "lot-attache-hijab-anti-trou"
-        ],
-        "layout": "slider",
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "<h2>BEST SELLERS </h2>",
-        "title_underline_style": "none",
-        "text": "",
-        "show_link": false,
-        "link_text": "",
-        "link_url": "/",
-        "button_style": "primary plain",
-        "mobile_layout": "slider",
-        "spacing_desktop": 70,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "376f598a-afc1-4c5b-91ea-a2b038935074": {
-      "type": "section-collage",
+    "section_featured_product_JXGBDU": {
+      "type": "section-featured-product",
       "blocks": {
-        "56da2832-db6d-435e-88c6-913851e27132": {
-          "type": "image",
+        "title_GM6VyT": {
+          "type": "title",
           "settings": {
-            "image": "shopify://shop_images/3.png",
-            "overlay_opacity": 0,
-            "color_palette": "scheme-1",
-            "text_position": "text-center",
-            "title": "",
-            "title_underline_style": "none",
-            "text": "",
-            "show_link": true,
-            "link_text": "Button",
-            "link_url": "",
-            "button_style": "primary plain",
-            "show_look": false,
-            "product_list": [],
-            "look_btn_style": "buy_button plain",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "layout": "title-top",
+            "title_size": "h2",
+            "show_product_rating": true,
+            "show_vendor_brand": true,
+            "show_vendor_name": true,
+            "share_whatsapp": true,
+            "share_facebook": true,
+            "share_twitter": true,
+            "share_pinterest": true,
+            "share_messenger": true,
+            "share_email": true,
+            "layout_mobile": "title-top",
+            "mobile_title_size": "h2"
           }
         },
-        "template--19409751638328__376f598a-afc1-4c5b-91ea-a2b038935074-1686037946d7c2ae0d-0": {
-          "type": "image",
+        "short_description_xzkmxm": {
+          "type": "short_description",
+          "settings": {}
+        },
+        "variant_selection_44Bq7L": {
+          "type": "variant_selection",
           "settings": {
-            "overlay_opacity": 100,
-            "color_palette": "scheme-1",
-            "text_position": "text-start",
-            "title": "<h2><span style=\"text-decoration:underline\">HIJABS EN JERSEY PREMIUM</span></h2>",
-            "title_underline_style": "accent",
-            "text": "<p><em>Découvrez nos hijabs en jersey premium, alliant élégance, douceur et confort pour un port quotidien sans compromis.</em></p>",
-            "show_link": false,
-            "link_text": "Button",
-            "link_url": "",
-            "button_style": "accent plain",
-            "show_look": false,
-            "product_list": [],
-            "look_btn_style": "buy_button plain",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "selection_type": "dropdown",
+            "options": true,
+            "button_options": "Color",
+            "dropdown_options": "",
+            "show_variant_images": true,
+            "show_selected_variant_images": false,
+            "show_unavailable_variants": true,
+            "show_single_options": true,
+            "enable_selling_plans": true,
+            "size_name": "Size",
+            "sizechart_alignment": "left",
+            "sizechart_title_size": "h2",
+            "sizechart_title": "Size chart",
+            "sizechart_text": "",
+            "sizechart_page": "",
+            "sizechart_image_width": 460,
+            "sizechart_liquid": "",
+            "sizechart_html": ""
           }
+        },
+        "pickup_YbGMNN": {
+          "type": "pickup",
+          "settings": {}
+        },
+        "inventory_nQ4zbk": {
+          "type": "inventory",
+          "settings": {}
+        },
+        "price_iLcxwG": {
+          "type": "price",
+          "settings": {
+            "show_tax": false,
+            "font_size": 14
+          }
+        },
+        "buy_button_exRfz6": {
+          "type": "buy_button",
+          "disabled": true,
+          "settings": {
+            "button_style": "inv",
+            "show_amount_selection": true,
+            "show_dynamic_buybutton": false,
+            "button_style_dynamic_buybutton": "inv",
+            "preorder_label": "",
+            "preorder_label_color_palette": "secondary",
+            "preorder_show_dynamic_buybutton": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "kaching_bundles_app_block_EVKpY9": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "spacer_VDQBgp": {
+          "type": "spacer",
+          "settings": {
+            "height": 20,
+            "height_mobile": 20
+          }
+        },
+        "usp_VJGAJN": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this product</p>"
+          }
+        },
+        "usp_FgPw7z": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this product</p>"
+          }
+        },
+        "usp_PNQKTj": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this product</p>"
+          }
+        },
+        "shipping_timer_m8TaP6": {
+          "type": "shipping_timer",
+          "settings": {}
         }
       },
       "block_order": [
-        "56da2832-db6d-435e-88c6-913851e27132",
-        "template--19409751638328__376f598a-afc1-4c5b-91ea-a2b038935074-1686037946d7c2ae0d-0"
+        "title_GM6VyT",
+        "short_description_xzkmxm",
+        "variant_selection_44Bq7L",
+        "pickup_YbGMNN",
+        "inventory_nQ4zbk",
+        "price_iLcxwG",
+        "buy_button_exRfz6",
+        "kaching_bundles_app_block_EVKpY9",
+        "spacer_VDQBgp",
+        "usp_VJGAJN",
+        "usp_FgPw7z",
+        "usp_PNQKTj",
+        "shipping_timer_m8TaP6"
       ],
+      "name": "t:sections.featured_product.presets.name",
       "settings": {
-        "mirrored": false,
-        "width": "boxed",
-        "height": "size-l",
-        "enable_custom_height": true,
-        "custom_height": 720,
-        "space_between": 16,
-        "image_zoom": false,
-        "image_move": true,
-        "layout_mobile": "compact",
-        "mobile_height": "size-s",
-        "spacing_desktop": 70,
+        "product": "bouchons-doreilles-wavplugs-boitier-offert",
+        "media_layout": "slider",
+        "images_grid_spacing": 16,
+        "custom_product_image_ratio": 100,
+        "fill_images": false,
+        "images_padding": 0,
+        "images_vertical_position": 0,
+        "show_thumbs_desktop": true,
+        "show_thumbs_mobile": true,
+        "thumbs_layout": "aside",
+        "img_info": "",
+        "img_info_color_palette": "",
+        "enable_custom_font_size": false,
+        "font_size": "14px",
+        "show_product_description": true,
+        "mobile_tabs_title_size": "h4",
+        "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
@@ -347,196 +344,8 @@
         "fix_zindex": 0
       }
     },
-    "494041aa-66c0-450a-acb0-f3bc90d6b837": {
-      "type": "section-collage",
-      "blocks": {
-        "fd93849e-8a2d-47d7-a8b8-7dd02ccde46a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2.png",
-            "overlay_opacity": 10,
-            "color_palette": "scheme-2",
-            "text_position": "align-bottom text-end",
-            "title": "<h2>BOX HIJAB</h2>",
-            "title_underline_style": "none",
-            "text": "",
-            "show_link": true,
-            "link_text": "VOIR PLUS",
-            "link_url": "shopify://collections/box-hijab",
-            "button_style": "secondary plain",
-            "show_look": false,
-            "product_list": [],
-            "look_btn_style": "buy_button plain",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
-        "image_JX4R8w": {
-          "type": "image",
-          "settings": {
-            "overlay_opacity": 10,
-            "color_palette": "scheme-2",
-            "text_position": "align-bottom text-end",
-            "title": "<h2>ACCESSOIRES</h2>",
-            "title_underline_style": "none",
-            "text": "",
-            "show_link": true,
-            "link_text": "VOIR PLUS",
-            "link_url": "shopify://collections/accessoires",
-            "button_style": "secondary plain",
-            "show_look": false,
-            "product_list": [],
-            "look_btn_style": "buy_button plain",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        }
-      },
-      "block_order": [
-        "fd93849e-8a2d-47d7-a8b8-7dd02ccde46a",
-        "image_JX4R8w"
-      ],
-      "settings": {
-        "mirrored": true,
-        "width": "boxed",
-        "height": "size-l",
-        "enable_custom_height": true,
-        "custom_height": 700,
-        "space_between": 16,
-        "image_zoom": false,
-        "image_move": true,
-        "layout_mobile": "compact",
-        "mobile_height": "size-s",
-        "spacing_desktop": 70,
-        "spacing_mobile": 40,
-        "fix_zindex": 0
-      }
-    },
-    "section_image_hotspots_JcxRz6": {
-      "type": "section-image-hotspots",
-      "settings": {
-        "overlay_opacity_img": 0,
-        "color_palette": "scheme-1",
-        "overlay_opacity": 100,
-        "hotspot_height": 33,
-        "hotspot_color_palette": "primary",
-        "layout": "right",
-        "height": "m",
-        "width": "wide",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "align-center text-center",
-        "title": "<h2>QUI SOMMES NOUS ?</h2>",
-        "title_underline_style": "none",
-        "text": "<p>Chez <strong>Farah MH’s</strong>, nous créons des <strong>voiles en jersey</strong> alliant <strong>élégance, confort et praticité</strong>. Nos tissus soigneusement sélectionnés offrent une tenue parfaite, infroissable et respirante, idéale pour le quotidien comme pour les occasions spéciales.</p>",
-        "show_link": true,
-        "link_text": "Button",
-        "link_url": "",
-        "button_style": "primary plain",
-        "height_mobile": "m",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "section_faq_cC6mNj": {
       "type": "section-faq",
-      "blocks": {
-        "text_t6EWtL": {
-          "type": "text",
-          "settings": {
-            "faq_question": "Quels sont les types de voiles que vous proposez ?",
-            "icon": "none",
-            "header_image_width": 25,
-            "faq_answer": "<p>Nous proposons des <strong>voiles en jersey</strong>, connus pour leur <strong>douceur, élasticité et confort</strong>. Ils sont faciles à porter, infroissables et parfaits pour un usage quotidien.</p>",
-            "page": "",
-            "image_width": 465,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "text_fbe37z": {
-          "type": "text",
-          "settings": {
-            "faq_question": "Quels sont les délais de livraison ?",
-            "icon": "none",
-            "header_image_width": 25,
-            "faq_answer": "<p>Nos commandes sont expédiées sous <strong>1 à 3 jours ouvrés</strong>, avec un délai de livraison estimé entre <strong>9 et 10 jours ouvrés</strong> selon votre localisation.</p>",
-            "page": "",
-            "image_width": 465,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "text_6FpytG": {
-          "type": "text",
-          "settings": {
-            "faq_question": "Puis-je retourner un article ?",
-            "icon": "none",
-            "header_image_width": 25,
-            "faq_answer": "<p>Oui ! Vous pouvez retourner un article dans un délai de <strong>30 jours</strong> après réception, à condition qu’il soit <strong>non porté et en parfait état</strong>. Les frais de retour sont à la charge du client.</p>",
-            "page": "",
-            "image_width": 465,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "text_grFGry": {
-          "type": "text",
-          "settings": {
-            "faq_question": "Quels sont les moyens de paiement acceptés ?",
-            "icon": "none",
-            "header_image_width": 25,
-            "faq_answer": "<p>Nous acceptons les paiements par <strong>carte bancaire (Visa, Mastercard, American Express)</strong> et <strong>PayPal</strong>.</p>",
-            "page": "",
-            "image_width": 465,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "text_gDcrU7": {
-          "type": "text",
-          "settings": {
-            "faq_question": "Comment entretenir mon voile en jersey ?",
-            "icon": "none",
-            "header_image_width": 25,
-            "faq_answer": "<p>Pour préserver la qualité de votre voile, nous recommandons un lavage à <strong>30°C en machine</strong> ou à la main, et de le laisser sécher à l’air libre. <strong>Ne pas utiliser de sèche-linge.</strong></p>",
-            "page": "",
-            "image_width": 465,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "text_iecYJz": {
-          "type": "text",
-          "settings": {
-            "faq_question": "Ou puis-je vous contacter en cas de question ?",
-            "icon": "none",
-            "header_image_width": 25,
-            "faq_answer": "<p>Notre équipe est disponible via <strong>e-mail</strong> ou <strong>Instagram</strong> pour répondre à toutes vos questions.</p>",
-            "page": "",
-            "image_width": 465,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        }
-      },
-      "block_order": [
-        "text_t6EWtL",
-        "text_fbe37z",
-        "text_6FpytG",
-        "text_grFGry",
-        "text_gDcrU7",
-        "text_iecYJz"
-      ],
       "settings": {
         "alignment": "center",
         "compact": false,
@@ -554,11 +363,8 @@
     "section_logo_list_JGULRk",
     "section_slideshow_bKTBDh",
     "section_video_banner_LXgUtV",
-    "a15be9bf-f7a0-42b0-821b-ea897949fe0e",
-    "376f598a-afc1-4c5b-91ea-a2b038935074",
+    "section_featured_product_JXGBDU",
     "8d51c58b-f2e0-48bd-b8e9-2ce44b8e8e4e",
-    "494041aa-66c0-450a-acb0-f3bc90d6b837",
-    "section_image_hotspots_JcxRz6",
     "section_faq_cC6mNj"
   ]
 }
