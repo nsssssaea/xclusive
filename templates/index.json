@@ -102,7 +102,7 @@
       "settings": {
         "number_of_items": 2,
         "text_alignment": "center",
-        "title": "<h3>Le calme enfin accessible, selon eux:</h3>",
+        "title": "<h4>Le calme enfin accessible, selon eux:</h4>",
         "title_underline_style": "none",
         "show_link": true,
         "link_text": "Button",
